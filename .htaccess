@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule (.+).rss feed.php?username=$1
